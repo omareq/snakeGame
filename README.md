@@ -13,3 +13,5 @@ __Programmer:__ Omar Essilfie-Quaye
 __Email:__ omareq08@gmail.com  
   
 ##General Usage
+
+Got bored one night so made snake. I might get bored again on another night and add obstacles to make it harder, who knows? But for now enjoy a classic.
