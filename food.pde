@@ -8,8 +8,11 @@ class Food {
     scale = s;
     w = floor(width / scale) - 1;
     h = floor(height/ scale) - 1;
+    newLocation();
+  }
 
-    pos = new PVector(random(w), random(h));
+  void newLocation() {
+    pos = new PVector(floor(random(w)), floor(random(h)));
   }
 
   void show() {
